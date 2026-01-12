@@ -1,10 +1,10 @@
 # Data-analytics-bootcamp
 
-\# Week 4: Cloud Computing \& Microsoft Azure
+# Week 4: Cloud Computing \& Microsoft Azure
 
 
 
-\*\*Focus:\*\* Understanding cloud computing foundations, UK legal frameworks for data, hands-on Azure experience, and applying analytics to a real-world business case.
+**Focus:** Understanding cloud computing foundations, UK legal frameworks for data, hands-on Azure experience, and applying analytics to a real-world business case.
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-\## 1. Cloud Computing Foundations
+## 1. Cloud Computing Foundations
 
 
 
@@ -20,35 +20,35 @@ This week, I explored the transition from traditional on-premises hardware to sc
 
 
 
-\*\*Service Models:\*\*
+**Service Models:**
 
-\- \*\*IaaS (Infrastructure as a Service):\*\* Renting virtual data centres.  
+\- **IaaS (Infrastructure as a Service):** Renting virtual data centres.  
 
 &nbsp; \*Example:\* Netflix uses AWS for streaming.
 
-\- \*\*PaaS (Platform as a Service):\*\* Provides platforms for rapid application development.  
+\- **PaaS (Platform as a Service):** Provides platforms for rapid application development.  
 
 &nbsp; \*Example:\* Uber uses Google App Engine.
 
-\- \*\*SaaS (Software as a Service):\*\* Ready-to-use web applications.  
+\- **SaaS (Software as a Service):** Ready-to-use web applications.  
 
 &nbsp; \*Example:\* Salesforce.
 
 
 
-\*\*Deployment Models:\*\*
+**Deployment Models:**
 
-\- \*\*Public Cloud:\*\* Shared infrastructure hosted by third-party providers.  
+\- **Public Cloud:** Shared infrastructure hosted by third-party providers.  
 
-\- \*\*Private Cloud:\*\* Exclusive to a single organization for greater security.  
+\- **Private Cloud:** Exclusive to a single organization for greater security.  
 
-\- \*\*Hybrid Cloud:\*\* Combines public and private clouds—ideal for organizations needing both scalability and security.  
+\- **Hybrid Cloud:** Combines public and private clouds—ideal for organizations needing both scalability and security.  
 
-\- \*\*Community Cloud:\*\* Shared between organizations with similar requirements.
+\- **Community Cloud:** Shared between organizations with similar requirements.
 
 
 
-\*\*Cloud Provider Comparison:\*\*
+**Cloud Provider Comparison:**
 
 | Provider | Strengths | Example Services |
 
@@ -66,7 +66,7 @@ This week, I explored the transition from traditional on-premises hardware to sc
 
 
 
-\## 2. Legal and Ethical Frameworks
+## 2. Legal and Ethical Frameworks
 
 
 
@@ -74,11 +74,11 @@ Explored the UK legal landscape for data and IT:
 
 
 
-\- \*\*Computer Misuse Act 1990 \& Police and Justice Act 2006:\*\* Covers unauthorized access, intent to commit further offenses, and unauthorized modification. The 2006 update addresses modern threats like DoS attacks and malware distribution.  
+\- **Computer Misuse Act 1990 \& Police and Justice Act 2006:** Covers unauthorized access, intent to commit further offenses, and unauthorized modification. The 2006 update addresses modern threats like DoS attacks and malware distribution.  
 
-\- \*\*Intellectual Property \& Privacy:\*\* Copyright infringement, plagiarism, and risks of using pirated software.  
+\- **Intellectual Property \& Privacy:** Copyright infringement, plagiarism, and risks of using pirated software.  
 
-\- \*\*Data Protection in Employment:\*\* Differentiates employer-permissible data (e.g., NI numbers) from sensitive personal data (e.g., biometrics, health) requiring explicit consent.
+\- **Data Protection in Employment:** Differentiates employer-permissible data (e.g., NI numbers) from sensitive personal data (e.g., biometrics, health) requiring explicit consent.
 
 
 
@@ -86,7 +86,7 @@ Explored the UK legal landscape for data and IT:
 
 
 
-\## 3. Microsoft Azure Technical Proficiency
+## 3. Microsoft Azure Technical Proficiency
 
 
 
@@ -94,15 +94,15 @@ Hands-on labs and exam preparation strengthened Azure skills:
 
 
 
-\- \*\*Azure Labs:\*\* Explored relational and non-relational databases, data analytics, and mapping visualizations.  
+\- **Azure Labs:** Explored relational and non-relational databases, data analytics, and mapping visualizations.  
 
-\- \*\*DP-900 Practice Exam:\*\* Validated knowledge of cloud data fundamentals and Azure services.
+\- **DP-900 Practice Exam:** Validated knowledge of cloud data fundamentals and Azure services.
 
 
 
-\*\*Dashboard Example:\*\*
+**DP-900 Practice Assessment:**
 
-!\[Azure Dashboard Example](azure\_dashboard\_image.png)
+!\[DP-900 Practice Assessment](DP900_Assessment.png)
 
 
 
@@ -110,7 +110,7 @@ Hands-on labs and exam preparation strengthened Azure skills:
 
 
 
-\## 4. Strategic Case Study: \*Paws \& Whiskers\*
+## 4. Strategic Case Study: \*Paws \& Whiskers\*
 
 
 
@@ -118,33 +118,21 @@ A retail pet shop moving from spreadsheets to a centralized Azure data platform.
 
 
 
-\*\*Project Highlights:\*\*
+**Project Highlights:**
 
-\- \*\*Architecture Design:\*\* Data Lake Storage for structured and unstructured data (sales, customer photos, social media trends).  
+\- **Architecture Design:** Data Lake Storage for structured and unstructured data (sales, customer photos, social media trends).  
 
-\- \*\*Automation \& Integration:\*\* Azure Data Factory for ETL; Azure Functions for event-driven processes like inventory alerts.  
+\- **Automation \& Integration:** Azure Data Factory for ETL; Azure Functions for event-driven processes like inventory alerts.  
 
-\- \*\*Data Modelling:\*\* Star Schema to relate customer, product, and transaction data; enables real-time insights via Power BI dashboards.  
+\- **Data Modelling:** Star Schema to relate customer, product, and transaction data; enables real-time insights via Power BI dashboards.  
 
-\- \*\*Security \& Recovery:\*\* Disaster Recovery with Azure Backup and Site Recovery; ensures GDPR and PCI DSS compliance.
-
-
-
-\*\*Project Dashboard Example:\*\*
-
-!\[Paws \& Whiskers Dashboard](paws\_whiskers\_dashboard.png)
+\- **Security \& Recovery:** Disaster Recovery with Azure Backup and Site Recovery; ensures GDPR and PCI DSS compliance.
 
 
 
----
+**Visual overview of how Paws & Whiskers centralizes, secures, and leverages data to drive smarter business decisions and improve operational efficiency.**
 
-
-
-\## Analogy
-
-
-
-Transitioning to the cloud is like moving from a private well to a city water supply. Instead of maintaining your own pipes (on-premises hardware), you tap into a reliable, scalable system (cloud computing). Proper design of your "plumbing" (data architecture) ensures efficiency, reliability, and quality.
+!\[Paws \& Whiskers Dashboard](Paws_and_Whiskers.png)
 
 
 
@@ -152,7 +140,7 @@ Transitioning to the cloud is like moving from a private well to a city water su
 
 
 
-\## Key Skills Developed
+## Skills Developed
 
 
 
