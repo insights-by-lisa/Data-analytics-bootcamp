@@ -49,15 +49,10 @@ This week, I explored the transition from traditional on-premises hardware to sc
 
 
 **Cloud Provider Comparison:**
-
 | Provider | Strengths | Example Services |
-
 |----------|-----------|----------------|
-
 | AWS      | Market leader, highly flexible and scalable | EC2, S3, Lambda |
-
 | Azure    | Integrated with Microsoft products | Virtual Machines, SQL Database, Power BI |
-
 | GCP      | Strong in AI, ML, and data analytics | Compute Engine, BigQuery, Cloud Storage |
 
 
@@ -102,7 +97,7 @@ Hands-on labs and exam preparation strengthened Azure skills:
 
 **DP-900 Practice Assessment:**
 
-!\[DP-900 Practice Assessment](DP900_Assessment.png)
+![DP-900 Practice Assessment](DP900_Assessment.png)
 
 
 
@@ -132,7 +127,7 @@ A retail pet shop moving from spreadsheets to a centralized Azure data platform.
 
 **Visual overview of how Paws & Whiskers centralizes, secures, and leverages data to drive smarter business decisions and improve operational efficiency.**
 
-!\[Paws \& Whiskers Dashboard](Paws_and_Whiskers.png)
+![Paws \& Whiskers Dashboard](Paws_and_Whiskers.png)
 
 
 
