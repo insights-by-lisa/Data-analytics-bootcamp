@@ -58,7 +58,9 @@ The ER diagram below illustrates the database schema created for the retail proj
 \- This design supports the core operations of the business by enabling:
 
 &nbsp; - Efficient **inventory management** to track products and stock levels
+
 &nbsp; - Recording and analysing **sales transactions**
+
 &nbsp; - Maintaining a **customer loyalty program**
 
 
