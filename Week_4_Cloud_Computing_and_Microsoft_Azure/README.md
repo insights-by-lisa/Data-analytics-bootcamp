@@ -95,7 +95,7 @@ Hands-on labs and exam preparation strengthened Azure skills:
 
 
 
-**Screenshot DP-900 Practice Assessment Results:**
+**Screenshot of DP-900 Practice Assessment Results:**
 
 <img src="DP900_Assessment.png" alt="DP900 Assessment" width="600">
 
