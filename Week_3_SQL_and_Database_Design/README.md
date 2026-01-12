@@ -50,7 +50,7 @@
 
 \- **ER Diagram: Database Schema**
 
-&nbsp; - The ER diagram below illustrates the database schema created for the retail project. It shows how tables are structured, the relationships between them, and the data types used. 
+The ER diagram below illustrates the database schema created for the retail project. It shows how tables are structured, the relationships between them, and the data types used. 
 
 
 ![Retail Database ER Diagram](ER_Diagram_Retail_DB.png)
