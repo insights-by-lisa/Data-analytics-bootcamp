@@ -57,9 +57,9 @@
 
 &nbsp; - This design supports the core operations of the business by enabling:
 
-        - Efficient **inventory management** to track products and stock levels
-        - Recording and analysing **sales transactions**
-        - Maintaining a **customer loyalty program**
+          - Efficient **inventory management** to track products and stock levels
+          - Recording and analysing **sales transactions**
+          - Maintaining a **customer loyalty program**
 
 
 \- **SQL Implementation**
