@@ -127,7 +127,7 @@ A retail pet shop moving from spreadsheets to a centralized Azure data platform.
 ### Visual overview of how Paws & Whiskers centralizes, secures, and leverages data to drive smarter business decisions and improve operational efficiency.
 
 <img src="Paws_and_Whiskers.png" alt="Paws & Whiskers Data Flow" width="600">
-\*Note: This diagram was generated using AI to illustrate the data flow and business benefits in a simplified, non-technical way.\*
+*Note: This diagram was generated using AI to illustrate the data flow and business benefits in a simplified, non-technical way.*
 
 
 
