@@ -2,7 +2,7 @@
 
 
 
-\# Week 1 – Data Technician Programme
+\# Week 1 – Data Governance and Excel
 
 
 
