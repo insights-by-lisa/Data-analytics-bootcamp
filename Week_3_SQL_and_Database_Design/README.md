@@ -7,10 +7,7 @@
 **Focus:** Relational and non-relational databases, database relationships, and SQL querying for analysis.
 
 
-
-### Overview
-
-This week focused on understanding how data is structured, related, and queried in real-world business contexts. I combined database theory with practical SQL exercises to design, manage, and analyse relational datasets.
+---
 
 
 
@@ -41,6 +38,8 @@ This week focused on understanding how data is structured, related, and queried 
 &nbsp; - INNER, LEFT, RIGHT, FULL, SELF, CROSS joins for combining data across related tables.
 
 
+---
+
 
 ### Practical Project: Retail Database
 
@@ -66,6 +65,8 @@ Below is the ER diagram showing table structures, relationships, and data types:
 &nbsp; - Encryption and access controls to protect sensitive customer data.
 
 
+---
+
 
 ### SQL Querying \& Analysis (world\_db)
 
@@ -84,10 +85,12 @@ Below is the ER diagram showing table structures, relationships, and data types:
 \- Detected data discrepancies (e.g., Singapore capital population >100%) highlighting the importance of data validation.
 
 
+---
 
-### Outcome
 
-By the end of Week 3, I was able to design relational schemas, write complex SQL queries, validate data, and extract actionable insights—essential skills for data analysis and reporting.
+### Skills Learned
+
+This week focused on understanding how data is structured, related, and queried in real-world business contexts. I combined database theory with practical SQL exercises to design, manage, and analyse relational datasets.
 
 
 
