@@ -2,7 +2,7 @@
 
 
 
-# Week 2: Data Visualization \& Exploratory Analysis
+# Week 2: Data Visualisation \& Exploratory Analysis
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-## 1. Data Visualization \& Tool Proficiency
+## 1. Data Visualisation \& Tool Proficiency
 
 
 
