@@ -18,27 +18,27 @@
 
 \- **Primary \& Foreign Keys**
 
-&nbsp; - Primary Keys uniquely identify records.
+&nbsp;  Primary Keys uniquely identify records.
 
-&nbsp; - Foreign Keys enforce relationships between tables to maintain data integrity.
+&nbsp;  Foreign Keys enforce relationships between tables to maintain data integrity.
 
 \- **Database Relationships**
 
-&nbsp; - One-to-One (Branch ↔ Manager)
+&nbsp;  One-to-One (Branch ↔ Manager)
 
-&nbsp; - One-to-Many (Regional Manager → Branch Managers)
+&nbsp;  One-to-Many (Regional Manager → Branch Managers)
 
-&nbsp; - Many-to-Many (Marketing Campaigns ↔ Target Audiences)
+&nbsp;  Many-to-Many (Marketing Campaigns ↔ Target Audiences)
 
 \- **Relational vs Non-Relational Databases**
 
-&nbsp; - SQL databases: structured, vertical scaling, fixed schemas.
+&nbsp;  SQL databases: structured, vertical scaling, fixed schemas.
 
-&nbsp; - NoSQL: unstructured, horizontal scaling, flexible schemas, ideal for social media and multimedia data.
+&nbsp;  NoSQL: unstructured, horizontal scaling, flexible schemas, ideal for social media and multimedia data.
 
 \- **JOIN Types**
 
-&nbsp; - INNER, LEFT, RIGHT, FULL, SELF, CROSS joins for combining data across related tables.
+&nbsp;  INNER, LEFT, RIGHT, FULL, SELF, CROSS joins for combining data across related tables.
 
 
 
@@ -50,14 +50,14 @@
 
 \- **ER Diagram: Database Schema**
 
-&nbsp; - The ER diagram below illustrates the database schema created for the retail project.
+&nbsp;  The ER diagram below illustrates the database schema created for the retail project.
 
-&nbsp;   It shows how tables are structured, the relationships between them, and the data types used. 
+&nbsp;  It shows how tables are structured, the relationships between them, and the data types used. 
 
 
 ![Retail Database ER Diagram](ER_Diagram_Retail_DB.png)
 
-&nbsp;   This design supports the core operations of the business by enabling:
+&nbsp;  This design supports the core operations of the business by enabling:
 
 &nbsp; - Efficient **inventory management** to track products and stock levels  
 &nbsp; - Recording and analysing **sales transactions**  
@@ -65,13 +65,13 @@
 
 \- **SQL Implementation**
 
-&nbsp; - `CREATE TABLE` and `INSERT INTO` commands to structure and populate data.
+&nbsp;  `CREATE TABLE` and `INSERT INTO` commands to structure and populate data.
 
 \- **Maintenance \& Security**
 
-&nbsp; - Daily differential and weekly full backups.
+&nbsp;  Daily differential and weekly full backups.
 
-&nbsp; - Encryption and access controls to protect sensitive customer data.
+&nbsp;  Encryption and access controls to protect sensitive customer data.
 
 
 
@@ -87,11 +87,11 @@
 
 \- Analysed data by:
 
-&nbsp; - Filtering cities by prefix and population range.
+&nbsp;  Filtering cities by prefix and population range.
 
-&nbsp; - Calculating average populations and percentages.
+&nbsp;  Calculating average populations and percentages.
 
-&nbsp; - Identifying top and bottom countries by life expectancy.
+&nbsp;  Identifying top and bottom countries by life expectancy.
 
 \- Detected data discrepancies (e.g., Singapore capital population >100%) highlighting the importance of data validation.
 
