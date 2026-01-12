@@ -1,17 +1,20 @@
 # Data-analytics-bootcamp
 
-## Week 3: SQL \& Database Design
+
+
+# Week 3: SQL \& Database Design
 
 
 
 **Focus:** Relational and non-relational databases, database relationships, and SQL querying for analysis.
 
 
+
 ---
 
 
 
-### Key Concepts
+## 1. Key Concepts
 
 \- **Primary \& Foreign Keys**
 
@@ -38,21 +41,26 @@
 &nbsp; - INNER, LEFT, RIGHT, FULL, SELF, CROSS joins for combining data across related tables.
 
 
+
 ---
 
 
-### Practical Project: Retail Database
 
-\- **Schema Design**
+## 2. Practical Project: Retail Database
 
-&nbsp; - Built tables for Inventory, Suppliers, Sales\_Transactions, and Customers (including loyalty program).
+\- **ER Diagram: Database Schema**
 
-\- **ER Diagram**
-
-Below is the ER diagram showing table structures, relationships, and data types:
+&nbsp; - The ER diagram below illustrates the database schema created for the retail project. It shows how tables are structured, the relationships between them, and the data types used. 
 
 
 ![Retail Database ER Diagram](ER_Diagram_Retail_DB.png)
+
+
+This design supports the core operations of the business by enabling:
+
+- Efficient **inventory management** to track products and stock levels  
+- Recording and analysing **sales transactions**  
+- Maintaining a **customer loyalty program** with secure and organised data  
 
 \- **SQL Implementation**
 
@@ -65,10 +73,12 @@ Below is the ER diagram showing table structures, relationships, and data types:
 &nbsp; - Encryption and access controls to protect sensitive customer data.
 
 
+
 ---
 
 
-### SQL Querying \& Analysis (world\_db)
+
+## 3. SQL Querying \& Analysis (world\_db)
 
 \- Performed queries using `SELECT`, `WHERE`, `BETWEEN`, `ORDER BY`, `LIMIT`.
 
