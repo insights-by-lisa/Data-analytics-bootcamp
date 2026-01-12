@@ -109,3 +109,16 @@ This Tableau visualisation explores key global health indicators using heat maps
 
 
 
+---
+
+
+
+## Skills Developed
+
+\- Proficiency in **Tableau** and **Power BI** for creating interactive dashboards
+\- Ability to perform **Exploratory Data Analysis (EDA)** on large datasets
+\- Understanding of **data types, variable classification, and data structures**
+\- Experience in **data collection, cleaning, and transformation**
+\- Ability to **visualise trends, patterns, and disparities** effectively using charts, maps, and heatmaps
+\- Analytical thinking applied to **business insights and strategic recommendations**
+
