@@ -100,7 +100,7 @@ The ER diagram below illustrates the database schema created for the retail proj
 ---
 
 
-### Skills Learned
+### Skills Developed
 
 This week focused on understanding how data is structured, related, and queried in real-world business contexts. I combined database theory with practical SQL exercises to design, manage, and analyse relational datasets.
 
