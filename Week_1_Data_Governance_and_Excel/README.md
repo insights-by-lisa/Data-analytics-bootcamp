@@ -2,11 +2,11 @@
 
 
 
-\# Week 1 – Data Governance and Excel
+# Week 1 – Data Governance and Excel
 
 
 
-\*\*Focus:\*\* Data governance, Excel data analysis, and presenting insights to stakeholders.
+**Focus:** Data governance, Excel data analysis, and presenting insights to stakeholders.
 
 
 
@@ -14,17 +14,17 @@
 
 
 
-\## 1. Data Governance \& Legal Compliance
+## 1. Data Governance \& Legal Compliance
 
 During Week 1, I reviewed key UK laws and regulations related to handling data:
 
 
 
-\- \*\*Data Protection \& GDPR\*\* – Learned principles of accuracy, minimisation, and storage limitation.  
+\- **Data Protection \& GDPR** – Learned principles of accuracy, minimisation, and storage limitation.  
 
-\- \*\*Freedom of Information Act\*\* – Explored transparency requirements for public authorities.  
+\- **Freedom of Information Act** – Explored transparency requirements for public authorities.  
 
-\- \*\*Computer Misuse Act\*\* – Studied measures to protect computer systems from unauthorised access.  
+\- **Computer Misuse Act** – Studied measures to protect computer systems from unauthorised access.  
 
 
 
@@ -36,21 +36,21 @@ These lessons highlighted the importance of secure, compliant, and ethical data 
 
 
 
-\## 2. Excel Data Exploration \& Analysis
+## 2. Excel Data Exploration \& Analysis
 
 I practiced managing and analysing datasets using Microsoft Excel:
 
 
 
-\- Converted data ranges into \*\*tables\*\* for better organisation.  
+\- Converted data ranges into **tables** for better organisation.  
 
-\- Used \*\*sorting, filtering, SUM, AVERAGE, MAX, MIN\*\* functions to analyse data.  
+\- Used **sorting, filtering, SUM, AVERAGE, MAX, MIN** functions to analyse data.  
 
-\- Applied \*\*conditional formatting\*\* and \*\*data validation\*\* to standardise inputs and link to formulas.  
+\- Applied **conditional formatting** and **data validation** to standardise inputs and link to formulas.  
 
-\- Built \*\*pivot tables and charts\*\* to summarise data effectively.  
+\- Built **pivot tables and charts** to summarise data effectively.  
 
-\- Used the \*\*SWITCH function\*\* to create dynamic logic for categorising data.  
+\- Used the **SWITCH function** to create dynamic logic for categorising data.  
 
 
 
@@ -62,7 +62,7 @@ These tasks strengthened my technical proficiency in Excel and prepared me for d
 
 
 
-\## 3. Data Presentation \& Stakeholder Communication
+## 3. Data Presentation \& Stakeholder Communication
 
 I learned to communicate insights effectively to different audiences:
 
@@ -70,9 +70,9 @@ I learned to communicate insights effectively to different audiences:
 
 \- Tailored presentations to meet the audience’s priorities and expectations.  
 
-\- Practised \*\*public speaking\*\* and structured messaging for clarity and impact.  
+\- Practised **public speaking** and structured messaging for clarity and impact.  
 
-\- Evaluated tools such as \*\*Excel, PowerPoint, and Power BI\*\* to select the most effective delivery format.  
+\- Evaluated tools such as **Excel, PowerPoint, and Power BI** to select the most effective delivery format.  
 
 
 
@@ -86,7 +86,7 @@ This helped me understand how to translate data analysis into actionable recomme
 
 \## 4. Week 1 Project Dashboard
 
-The image below demonstrates an \*\*interactive Excel dashboard\*\* created during Week 1:
+The image below demonstrates an **interactive Excel dashboard** created during Week 1:
 
 
 
@@ -102,7 +102,7 @@ The image below demonstrates an \*\*interactive Excel dashboard\*\* created duri
 
 
 
-\## Skills Developed
+## Skills Developed
 
 \- Data Governance \& Legal Compliance  
 
