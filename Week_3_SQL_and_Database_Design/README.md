@@ -50,13 +50,14 @@
 
 \- **ER Diagram: Database Schema**
 
-&nbsp; - The ER diagram below illustrates the database schema created for the retail project. It shows how tables are structured, the relationships between them, and the data types used. 
+&nbsp; - The ER diagram below illustrates the database schema created for the retail project. 
+         It shows how tables are structured, the relationships between them, and the data types used. 
 
 
 ![Retail Database ER Diagram](ER_Diagram_Retail_DB.png)
 
 
-This design supports the core operations of the business by enabling:
+        This design supports the core operations of the business by enabling:
 
 - Efficient **inventory management** to track products and stock levels  
 - Recording and analysing **sales transactions**  
