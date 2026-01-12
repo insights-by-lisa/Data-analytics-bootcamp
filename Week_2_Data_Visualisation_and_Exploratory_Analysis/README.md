@@ -2,11 +2,11 @@
 
 
 
-\# Week 2: Data Visualization \& Exploratory Analysis
+# Week 2: Data Visualization \& Exploratory Analysis
 
 
 
-\*\*Focus:\*\* Mastering Tableau and Power BI for interactive dashboards, and applying EDA techniques to real-world datasets.  
+**Focus:** Mastering Tableau and Power BI for interactive dashboards, and applying EDA techniques to real-world datasets.  
 
 
 
@@ -101,11 +101,11 @@ This Tableau visualisation explores key global health indicators using heat maps
 
 ## 3. Theoretical Foundations
 
-\- Applied \*\*data types \& variable concepts\*\*: structured vs unstructured data, quantitative vs qualitative variables
+\- Applied **data types \& variable concepts**: structured vs unstructured data, quantitative vs qualitative variables
 
-\- Followed the \*\*9-step data analysis process\*\*: Problem Hypothesis → Data Collection → Cleaning → Modelling → Visualising → Analysing → Interpreting → Documenting/Communicating
+\- Followed the **9-step data analysis process**: Problem Hypothesis → Data Collection → Cleaning → Modelling → Visualising → Analysing → Interpreting → Documenting/Communicating
 
-\- Explored \*\*data collection methods\*\*: web scraping for market research, APIs for integrating external services (e.g., social media, weather)
+\- Explored **data collection methods**: web scraping for market research, APIs for integrating external services (e.g., social media, weather)
 
 
 
