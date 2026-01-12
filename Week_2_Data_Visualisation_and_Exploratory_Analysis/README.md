@@ -45,7 +45,7 @@
 
 &nbsp; - Designing interactive dashboards for high-level business insights  
 
-!\[Week 2 Dashboard](Power\_BI\_Dashboard\_Image.png)
+![Week 2 Dashboard](Power_BI_Dashboard_Image.png)
 
 
 
