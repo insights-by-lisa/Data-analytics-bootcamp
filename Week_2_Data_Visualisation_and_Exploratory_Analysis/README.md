@@ -34,7 +34,6 @@
 
 &nbsp; - UK-based maps to visualise geographic impacts  
 
-!\[Tableau Dashboard](Tableau\_Dashboard\_Image.png)
 
 
 
@@ -46,11 +45,7 @@
 
 &nbsp; - Designing interactive dashboards for high-level business insights  
 
-!\[Power BI Dashboard](PowerBI\_Dashboard\_Image.png)
-
-
-
-!\[Week 2 Dashboard](images/Power\_BI\_Dashboard\_Image.png)
+!\[Week 2 Dashboard](Power\_BI\_Dashboard\_Image.png)
 
 
 
@@ -84,11 +79,7 @@
 
 \- Created heat maps to visualise regional health patterns  
 
-!\[Health Data Insights](Health\_Data\_Insights.png)
-
-
-
-!\[Week 2 Dashboard](images/Tableau\_Dashboard\_Image.png)
+!\[Week 2 Dashboard](Tableau\_Dashboard\_Image.png)
 
 
 
