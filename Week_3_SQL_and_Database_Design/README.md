@@ -48,7 +48,7 @@ This week focused on understanding how data is structured, related, and queried 
 
 &nbsp; - Built tables for Inventory, Suppliers, Sales\_Transactions, and Customers (including loyalty program).
 
-#### ER Diagram
+\- **ER Diagram**
 
 Below is the ER diagram showing table structures, relationships, and data types:
 
