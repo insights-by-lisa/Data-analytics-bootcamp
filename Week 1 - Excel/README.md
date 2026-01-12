@@ -16,13 +16,19 @@
 
 \## 1. Data Governance \& Legal Compliance
 
-\- Reviewed \*\*UK laws and regulations\*\* relevant to data handling:  
+During Week 1, I reviewed key UK laws and regulations related to handling data:
 
-&nbsp; - \*\*Data Protection \& GDPR\*\* – principles of accuracy, minimisation, and storage limitation.  
 
-&nbsp; - \*\*Freedom of Information Act\*\* – transparency requirements for public authorities.  
 
-&nbsp; - \*\*Computer Misuse Act\*\* – protecting systems from unauthorised access.  
+\- \*\*Data Protection \& GDPR\*\* – Learned principles of accuracy, minimisation, and storage limitation.  
+
+\- \*\*Freedom of Information Act\*\* – Explored transparency requirements for public authorities.  
+
+\- \*\*Computer Misuse Act\*\* – Studied measures to protect computer systems from unauthorised access.  
+
+
+
+These lessons highlighted the importance of secure, compliant, and ethical data management.
 
 
 
@@ -32,9 +38,13 @@
 
 \## 2. Excel Data Exploration \& Analysis
 
-\- Converted data ranges into \*\*tables\*\* for better management.  
+I practiced managing and analysing datasets using Microsoft Excel:
 
-\- Used \*\*sorting, filtering, SUM, AVERAGE, MAX, MIN\*\* functions for analysis.  
+
+
+\- Converted data ranges into \*\*tables\*\* for better organisation.  
+
+\- Used \*\*sorting, filtering, SUM, AVERAGE, MAX, MIN\*\* functions to analyse data.  
 
 \- Applied \*\*conditional formatting\*\* and \*\*data validation\*\* to standardise inputs and link to formulas.  
 
@@ -44,17 +54,29 @@
 
 
 
+These tasks strengthened my technical proficiency in Excel and prepared me for data-driven decision-making.
+
+
+
 ---
 
 
 
 \## 3. Data Presentation \& Stakeholder Communication
 
-\- Learned to \*\*tailor presentations to the audience\*\* and choose the most effective tools and delivery format.  
+I learned to communicate insights effectively to different audiences:
 
-\- Practised \*\*public speaking\*\* and structured messaging to clearly communicate insights.  
 
-\- Evaluated \*\*Excel, PowerPoint, and Power BI\*\* for presenting findings.  
+
+\- Tailored presentations to meet the audience’s priorities and expectations.  
+
+\- Practised \*\*public speaking\*\* and structured messaging for clarity and impact.  
+
+\- Evaluated tools such as \*\*Excel, PowerPoint, and Power BI\*\* to select the most effective delivery format.  
+
+
+
+This helped me understand how to translate data analysis into actionable recommendations.
 
 
 
@@ -64,9 +86,35 @@
 
 \## 4. Week 1 Project Dashboard
 
-!\[Total Sales by Gender, Category, and Age Group](Excel\_Sales\_Dashboard\_Image.png)  
+The image below demonstrates an \*\*interactive Excel dashboard\*\* created during Week 1:
 
-\*Interactive Excel dashboard demonstrating sales analysis by gender, category, and age group.\*
+
+
+!\[Total Sales by Gender, Category, and Age Group](Excel\_Sales\_Dashboard\_Image.png)
+
+
+
+\*This dashboard visualises total sales across gender, product category, and age group. Users can interact with slicers to explore different segments of the data.\*
+
+
+
+---
+
+
+
+\## Skills Developed
+
+\- Data Governance \& Legal Compliance  
+
+\- Data Cleaning \& Validation in Excel  
+
+\- Pivot Tables \& Charting  
+
+\- Advanced Excel Functions (`SUM`, `AVERAGE`, `MAX`, `MIN`, `SWITCH`)  
+
+\- Stakeholder-Focused Data Presentation  
+
+\- Public Speaking and Structured Messaging  
 
 
 
