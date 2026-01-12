@@ -90,7 +90,7 @@ The image below demonstrates an \*\*interactive Excel dashboard\*\* created duri
 
 
 
-!\[Alt Text](https://github.com/insights-by-lisa/Data-analytics-bootcamp/blob/main/Week%201%20-%20Excel/Excel_Sales_Dashboard_Image.png)
+!\[Alt Text](Excel_Sales_Dashboard_Image.png)
 
 
 
