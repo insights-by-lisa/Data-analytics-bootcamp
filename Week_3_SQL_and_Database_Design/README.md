@@ -53,7 +53,7 @@ This week focused on understanding how data is structured, related, and queried 
 Below is the ER diagram showing table structures, relationships, and data types:
 
 
-![Retail Database ER Diagram](ER_Diagram_Retail_DB)
+![Retail Database ER Diagram](ER_Diagram_Retail_DB.png)
 
 \- **SQL Implementation**
 
