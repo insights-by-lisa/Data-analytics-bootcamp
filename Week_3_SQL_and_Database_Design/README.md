@@ -57,11 +57,12 @@
 
 ![Retail Database ER Diagram](ER_Diagram_Retail_DB.png)
 
-&nbsp; - This design supports the core operations of the business by enabling:
+- This design supports the core operations of the business by enabling:
 
-&nbsp;     - Efficient **inventory management** to track products and stock levels  
-&nbsp;     - Recording and analysing **sales transactions**  
-&nbsp;     - Maintaining a **customer loyalty program** with secure and organised data  
+    - Efficient **inventory management** to track products and stock levels
+    - Recording and analysing **sales transactions**
+    - Maintaining a **customer loyalty program**
+
 
 \- **SQL Implementation**
 
