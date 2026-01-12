@@ -89,7 +89,7 @@ Hands-on labs and exam preparation strengthened Azure skills:
 
 
 
-\- **Azure Labs:** Explored relational and non-relational databases, data analytics, and mapping visualizations.  
+\- **Azure Labs:** Explored relational and non-relational databases, data analytics, and mapping visualisations.  
 
 \- **DP-900 Practice Exam:** Validated knowledge of cloud data fundamentals and Azure services.
 
@@ -143,7 +143,7 @@ A retail pet shop moving from spreadsheets to a centralized Azure data platform.
 
 \- Understanding UK legal and ethical frameworks around data use  
 
-\- Hands-on Azure experience: relational \& non-relational data, analytics, and visualization  
+\- Hands-on Azure experience: relational \& non-relational data, analytics, and visualisation  
 
 \- Practical application of cloud-based data architecture for real business scenarios  
 
