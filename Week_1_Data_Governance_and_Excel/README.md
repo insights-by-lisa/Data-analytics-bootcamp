@@ -84,7 +84,7 @@ This helped me understand how to translate data analysis into actionable recomme
 
 
 
-\## 4. Week 1 Project Dashboard
+## 4. Week 1 Project Dashboard
 
 The image below demonstrates an **interactive Excel dashboard** created during Week 1:
 
