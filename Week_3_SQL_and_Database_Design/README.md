@@ -1,28 +1,28 @@
 # Data-analytics-bootcamp
 
-\## Week 3: SQL \& Database Design
+## Week 3: SQL \& Database Design
 
 
 
-\*\*Focus:\*\* Relational and non-relational databases, database relationships, and SQL querying for analysis.
+**Focus:** Relational and non-relational databases, database relationships, and SQL querying for analysis.
 
 
 
-\### Overview
+### Overview
 
 This week focused on understanding how data is structured, related, and queried in real-world business contexts. I combined database theory with practical SQL exercises to design, manage, and analyse relational datasets.
 
 
 
-\### Key Concepts
+### Key Concepts
 
-\- \*\*Primary \& Foreign Keys\*\*
+\- **Primary \& Foreign Keys**
 
 &nbsp; - Primary Keys uniquely identify records.
 
 &nbsp; - Foreign Keys enforce relationships between tables to maintain data integrity.
 
-\- \*\*Database Relationships\*\*
+\- **Database Relationships**
 
 &nbsp; - One-to-One (Branch ↔ Manager)
 
@@ -30,37 +30,36 @@ This week focused on understanding how data is structured, related, and queried 
 
 &nbsp; - Many-to-Many (Marketing Campaigns ↔ Target Audiences)
 
-\- \*\*Relational vs Non-Relational Databases\*\*
+\- **Relational vs Non-Relational Databases**
 
 &nbsp; - SQL databases: structured, vertical scaling, fixed schemas.
 
 &nbsp; - NoSQL: unstructured, horizontal scaling, flexible schemas, ideal for social media and multimedia data.
 
-\- \*\*JOIN Types\*\*
+\- **JOIN Types**
 
 &nbsp; - INNER, LEFT, RIGHT, FULL, SELF, CROSS joins for combining data across related tables.
 
 
 
-\### Practical Project: Retail Database
+### Practical Project: Retail Database
 
-\- \*\*Schema Design\*\*
+\- **Schema Design**
 
 &nbsp; - Built tables for Inventory, Suppliers, Sales\_Transactions, and Customers (including loyalty program).
 
-\#### ER Diagram
+#### ER Diagram
 
 Below is the ER diagram showing table structures, relationships, and data types:
 
 
+![Retail Database ER Diagram](ER_Diagram_Retail_DB)
 
-!\[Retail Database ER Diagram](ER\_Diagram\_Retail\_DB)
-
-\- \*\*SQL Implementation\*\*
+\- **SQL Implementation**
 
 &nbsp; - `CREATE TABLE` and `INSERT INTO` commands to structure and populate data.
 
-\- \*\*Maintenance \& Security\*\*
+\- **Maintenance \& Security**
 
 &nbsp; - Daily differential and weekly full backups.
 
@@ -68,7 +67,7 @@ Below is the ER diagram showing table structures, relationships, and data types:
 
 
 
-\### SQL Querying \& Analysis (world\_db)
+### SQL Querying \& Analysis (world\_db)
 
 \- Performed queries using `SELECT`, `WHERE`, `BETWEEN`, `ORDER BY`, `LIMIT`.
 
@@ -86,7 +85,7 @@ Below is the ER diagram showing table structures, relationships, and data types:
 
 
 
-\### Outcome
+### Outcome
 
 By the end of Week 3, I was able to design relational schemas, write complex SQL queries, validate data, and extract actionable insights—essential skills for data analysis and reporting.
 
