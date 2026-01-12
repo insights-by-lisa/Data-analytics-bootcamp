@@ -14,11 +14,11 @@
 
 
 
-\## 1. Data Visualization \& Tool Proficiency
+## 1. Data Visualization \& Tool Proficiency
 
 
 
-\### Tableau
+### Tableau
 
 \- Evaluated different versions, noting limitations of Tableau Public:
 
@@ -37,7 +37,7 @@
 
 
 
-\### Power BI
+### Power BI
 
 \- Completed end-to-end labs in Skillable:
 
@@ -48,9 +48,9 @@
 
 
 
-\### Adventure Works: Sales Performance & Profit Margin Overview
+### Adventure Works: Sales Performance & Profit Margin Overview
 
-\This Power BI dashboard provides a high-level overview of sales performance and profit margin trends over time.
+This Power BI dashboard provides a high-level overview of sales performance and profit margin trends over time.
 
 ![Week 2 Dashboard](Power_BI_Dashboard_Image.png)
 
@@ -60,11 +60,11 @@
 
 
 
-\## 2. Exploratory Data Analysis (EDA) Projects
+## 2. Exploratory Data Analysis (EDA) Projects
 
 
 
-\### Spotify Trend Analysis
+### Spotify Trend Analysis
 
 \- Identified music trends: Pop remains the dominant genre
 
@@ -76,7 +76,7 @@
 
 
 
-\### Global Health \& NHS Strategic Analysis
+### Global Health \& NHS Strategic Analysis
 
 \- Analysed life expectancy and health metrics globally, noting regional disparities
 
@@ -87,9 +87,9 @@
 \- Created heat maps to visualise regional health patterns  
 
 
-\### Global Health Indicators: Life Expectancy & Disease Prevalence
+### Global Health Indicators: Life Expectancy & Disease Prevalence
 
-\This Tableau visualisation explores key global health indicators using heat maps and bar charts to highlight regional patterns and health disparities.
+This Tableau visualisation explores key global health indicators using heat maps and bar charts to highlight regional patterns and health disparities.
 
 ![Week 2 Dashboard](Tableau_Dashboard_Image.png)
 
@@ -99,7 +99,7 @@
 
 
 
-\## 3. Theoretical Foundations
+## 3. Theoretical Foundations
 
 \- Applied \*\*data types \& variable concepts\*\*: structured vs unstructured data, quantitative vs qualitative variables
 
