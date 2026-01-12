@@ -45,6 +45,9 @@
 
 &nbsp; - Designing interactive dashboards for high-level business insights  
 
+\### Adventure Works: Sales Performance & Profit Margin Overview
+\This dashboard provides a high-level overview of sales performance and profit margin trends over time.
+
 ![Week 2 Dashboard](Power_BI_Dashboard_Image.png)
 
 
@@ -79,7 +82,11 @@
 
 \- Created heat maps to visualise regional health patterns  
 
-!\[Week 2 Dashboard](Tableau\_Dashboard\_Image.png)
+
+\### Global Health Indicators: Life Expectancy & Disease Prevalence
+\This visualisation explores key global health indicators using heat maps and bar charts to highlight regional patterns and health disparities.
+
+![Week 2 Dashboard](Tableau_Dashboard_Image.png)
 
 
 
