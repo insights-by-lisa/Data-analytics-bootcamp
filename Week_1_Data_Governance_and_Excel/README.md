@@ -90,7 +90,7 @@ The image below demonstrates an \*\*interactive Excel dashboard\*\* created duri
 
 
 
-!\[Alt Text](Excel_Sales_Dashboard_Image.png)
+!\[Week_1_Data_Governance_and_Excel](Excel_Sales_Dashboard_Image.png)
 
 
 
