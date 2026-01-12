@@ -97,8 +97,7 @@ Hands-on labs and exam preparation strengthened Azure skills:
 
 **DP-900 Practice Assessment:**
 
-![DP-900 Practice Assessment](DP900_Assessment.png)
-
+<img src="DP900_Assessment.png" alt="DP900 Assessment" width="600">
 
 
 ---
@@ -124,7 +123,8 @@ A retail pet shop moving from spreadsheets to a centralized Azure data platform.
 \- **Security \& Recovery:** Disaster Recovery with Azure Backup and Site Recovery; ensures GDPR and PCI DSS compliance.
 
 
-### Visual overview of how Paws & Whiskers centralizes, secures, and leverages data to drive smarter business decisions and improve operational efficiency.
+
+** Visual overview of how Paws & Whiskers centralizes, secures, and leverages data to drive smarter business decisions and improve operational efficiency.**
 
 <img src="Paws_and_Whiskers.png" alt="Paws & Whiskers Data Flow" width="600">
 *Note: This diagram was generated using AI to illustrate the data flow and business benefits in a simplified, non-technical way.*
