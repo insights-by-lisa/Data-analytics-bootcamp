@@ -60,17 +60,18 @@ Some key strengths noted by my tutor throughout the course include:
 
 ## Portfolio Structure
 
-
+This repository contains weekly README documents summarizing the work covered in the bootcamp.  
+Please click the links below to explore each week’s README.
 
 \- `Week 1` – [Data Governance and Excel](Week_1_Data_Governance_and_Excel/README.md)
 
-\- `Week 2` – Data Visualisation \& Exploratory Analysis
+\- `Week 2` – [Data Visualisation \& Exploratory Analysis](Week_2_Data_Visualisation_and_Exploratory_Analysis/README.md)
 
-\- `Week 3` – SQL and Database Design 
+\- `Week 3` – [SQL and Database Design](Week_3_SQL_and_Database_Design/README.md) 
 
-\- `Week 5` – Cloud Computing and Microsoft Azure  
+\- `Week 5` – [Cloud Computing and Microsoft Azure](Week_5_Cloud_Computing_and_Microsoft_Azure/README.md)  
 
-\- `Week 6` – Python Programming and Data Analysis with Pandas
+\- `Week 6` – [Python Programming and Data Analysis with Pandas](Week_6_Python_Programming_and_Data_Analysis_with_Pandas)
 
 
 
