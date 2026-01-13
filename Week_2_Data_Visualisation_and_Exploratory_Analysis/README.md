@@ -127,3 +127,13 @@ This Tableau visualisation explores key global health indicators using heat maps
 
 \- Analytical thinking applied to **business insights and strategic recommendations**
 
+
+
+---
+
+
+
+## Navigation
+
+[⬅ Back to Main Summary](../README.md) [Next Week ➡](../Week_3_SQL_and_Database_Design/README.md)
+
