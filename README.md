@@ -62,15 +62,15 @@ Some key strengths noted by my tutor throughout the course include:
 
 
 
-\- `Week 1/` – Data Governance and Excel 
+\- `Week 1` – Data Governance and Excel 
 
-\- `Week 2/` – Data Visualisation \& Exploratory Analysis
+\- `Week 2` – Data Visualisation \& Exploratory Analysis
 
-\- `Week 3/` – SQL and Database Design 
+\- `Week 3` – SQL and Database Design 
 
-\- `Week 4/` – Cloud Computing and Microsoft Azure  
+\- `Week 4` – Cloud Computing and Microsoft Azure  
 
-\- `Week 5/` – Python Programming and Data Analysis with Pandas
+\- `Week 5` – Python Programming and Data Analysis with Pandas
 
 
 
