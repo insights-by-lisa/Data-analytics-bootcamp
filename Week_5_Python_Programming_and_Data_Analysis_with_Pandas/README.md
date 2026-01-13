@@ -2,11 +2,11 @@
 
 
 
-\# Week 5: Python Programming \& Data Analysis with Pandas
+# Week 5: Python Programming \& Data Analysis with Pandas
 
 
 
-\*\*Focus:\*\* Developing core Python programming skills and applying them to real-world data manipulation and analysis using the Pandas library.
+**Focus:** Developing core Python programming skills and applying them to real-world data manipulation and analysis using the Pandas library.
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-\## 1. Python Programming Fundamentals
+## 1. Python Programming Fundamentals
 
 
 
@@ -22,13 +22,13 @@ During the week, I covered core programming concepts and Python fundamentals, in
 
 
 
-\- \*\*Data structures and containers:\*\* variables storing single values, lists, dictionaries, tuples, and sets; understanding mutable vs immutable types; indexing and accessing elements.
+\- **Data structures and containers:** variables storing single values, lists, dictionaries, tuples, and sets; understanding mutable vs immutable types; indexing and accessing elements.
 
-\- \*\*Control flow and logic:\*\* conditional statements (`if`, `elif`, `else`), loops, and algorithms supported by flow diagrams.
+\- **Control flow and logic:** conditional statements (`if`, `elif`, `else`), loops, and algorithms supported by flow diagrams.
 
-\- \*\*Functions and I/O:\*\* built-in functions like `print()` and `input()`, user input handling.
+\- **Functions and I/O:** built-in functions like `print()` and `input()`, user input handling.
 
-\- \*\*Additional concepts:\*\* escape characters, arithmetic operations, and organizing data efficiently within Python.
+\- **Additional concepts:** escape characters, arithmetic operations, and organizing data efficiently within Python.
 
 
 
@@ -40,7 +40,7 @@ These foundations provided the necessary skills to solve problems programmatical
 
 
 
-\## 2. Data Exploration and Manipulation (Pandas)
+## 2. Data Exploration and Manipulation (Pandas)
 
 
 
@@ -48,7 +48,7 @@ A major component of the week involved working with CSV datasets using the Panda
 
 
 
-\### Data Loading and Inspection
+### Data Loading and Inspection
 
 \- Loaded CSV files into DataFrames.
 
@@ -56,7 +56,7 @@ A major component of the week involved working with CSV datasets using the Panda
 
 
 
-\### Indexing and Filtering
+### Indexing and Filtering
 
 \- Selected specific columns (e.g., `name`, `mark`).
 
@@ -64,7 +64,7 @@ A major component of the week involved working with CSV datasets using the Panda
 
 
 
-\### Data Cleaning
+### Data Cleaning
 
 \- Renamed columns (e.g., changing `mark` to `score`).
 
@@ -76,7 +76,7 @@ A major component of the week involved working with CSV datasets using the Panda
 
 
 
-\## 3. Advanced Data Operations
+## 3. Advanced Data Operations
 
 
 
@@ -84,7 +84,7 @@ More advanced techniques were applied to convert raw data into structured insigh
 
 
 
-\- \*\*Conditional Columns:\*\*
+\- **Conditional Columns:**
 
 &nbsp; - Created a `passed` column based on a score threshold (`mark >= 60`).
 
@@ -92,7 +92,7 @@ More advanced techniques were applied to convert raw data into structured insigh
 
 
 
-\- \*\*Aggregation and Grouping:\*\*
+\- **Aggregation and Grouping:**
 
 &nbsp; - Used `.groupby()` to calculate:
 
@@ -104,7 +104,7 @@ More advanced techniques were applied to convert raw data into structured insigh
 
 
 
-\- \*\*Pivot Tables and Sorting:\*\*
+\- **Pivot Tables and Sorting:**
 
 &nbsp; - Built pivot tables to compare class, gender, and marks.
 
@@ -112,7 +112,7 @@ More advanced techniques were applied to convert raw data into structured insigh
 
 
 
-\- \*\*Data Exporting:\*\*
+\- **Data Exporting:**
 
 &nbsp; - Exported cleaned and transformed DataFrames back to CSV for external use.
 
@@ -122,15 +122,15 @@ More advanced techniques were applied to convert raw data into structured insigh
 
 
 
-\## 4. Real-World Analysis: Global GDP Exploration
+## 4. Real-World Analysis: Global GDP Exploration
 
 
 
-The week concluded with a real-world data analysis task using the \*\*GDP (nominal) per Capita.csv\*\* dataset.
+The week concluded with a real-world data analysis task using the **GDP (nominal) per Capita.csv** dataset.
 
 
 
-\- \*\*Regional Analysis:\*\*
+\- **Regional Analysis:**
 
 &nbsp; - Analysed GDP by `Country/Territory` and `UN\_Region`.
 
@@ -138,13 +138,13 @@ The week concluded with a real-world data analysis task using the \*\*GDP (nomin
 
 
 
-\- \*\*Exploratory Data Analysis (EDA):\*\*
+\- **Exploratory Data Analysis (EDA):**
 
 &nbsp; - Inspected top 10 and bottom 5 rows to identify economic outliers and trends.
 
 
 
-\- \*\*Visualisation:\*\*
+\- **Visualisation:**
 
   - Created charts and plots (bar charts, histograms, and line charts) to explore distributions, compare student performance, and highlight trends.
 
@@ -152,7 +152,7 @@ The week concluded with a real-world data analysis task using the \*\*GDP (nomin
 
 
 
-\## Regional GDP Distribution Visualisation
+## Regional GDP Distribution Visualisation
 
 
 
@@ -160,9 +160,9 @@ To explore global economic trends, I created histograms of GDP (nominal) per cap
 
 
 
-!\[Python Code](Python\_Code\_Image.png)
+![Python Code](Python_Code_Image.png)
 
-!\[Python Output](Python\_Output\_Image.png)
+![Python Output](Python_Output_Image.png)
 
 
 
@@ -170,7 +170,7 @@ To explore global economic trends, I created histograms of GDP (nominal) per cap
 
 
 
-\## Key Skills Developed
+## Key Skills Developed
 
 
 
