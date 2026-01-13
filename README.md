@@ -62,7 +62,7 @@ Some key strengths noted by my tutor throughout the course include:
 
 
 
-\- `Week 1` – [Data Governance and Excel](Week1/README.md)
+\- `Week 1` – [Data Governance and Excel](Week_1_Data_Governance_and_Excel/README.md)
 
 \- `Week 2` – Data Visualisation \& Exploratory Analysis
 
