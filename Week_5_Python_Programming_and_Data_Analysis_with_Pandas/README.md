@@ -169,7 +169,7 @@ To explore global economic trends, I created histograms of GDP (nominal) per cap
 
 
 
-## Key Skills Developed
+## Skills Developed
 
 
 
