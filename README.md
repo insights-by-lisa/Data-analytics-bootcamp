@@ -62,8 +62,7 @@ Some key strengths noted by my tutor throughout the course include:
 
 This infographic provides a high-level overview of the Data Analytics Bootcamp. Each week is captured in a dedicated README document, covering topics from **Data Governance and Excel** to **Python programming and data analysis with Pandas**.
 
-![Bootcamp Overview](Bootcamp_Topics_Image.png)
-
+<img src="Bootcamp_Topics_Image.png" alt="Bootcamp Topics" width="600">
 *Note: The infographic above is AI-generated to visually summarize the bootcamp weeks.*
 
 
