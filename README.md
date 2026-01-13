@@ -14,7 +14,7 @@ Welcome to my Data Analytics Bootcamp portfolio! This repository is organised by
 
 
 
-I enjoy transforming raw data into insightful, visually engaging stories that are easy to understand and interpret. I have a logical mindset, which helps me follow analytical processes clearly and systematically. I also like exploring beyond the curriculum—looking up new code and techniques not covered in class to see what additional insights can be achieved.
+I enjoy transforming raw data into insightful, visually engaging stories that are easy to understand and interpret. I have a logical mindset, which helps me follow analytical processes clearly and systematically. I also like exploring beyond the curriculum, looking up new code and techniques not covered in class to see what additional insights can be achieved.
 
 
 
