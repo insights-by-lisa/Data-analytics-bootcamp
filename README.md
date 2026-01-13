@@ -58,9 +58,18 @@ Some key strengths noted by my tutor throughout the course include:
 
 
 
-## Portfolio Structure
+# Data Analytics Bootcamp - Weekly Overview
 
-This repository contains weekly README documents summarizing the work covered in the bootcamp.  
+This infographic provides a high-level overview of the Data Analytics Bootcamp. Each week is captured in a dedicated README document, covering topics from **Data Governance and Excel** to **Python programming and data analysis with Pandas**.
+
+![Bootcamp Overview](Bootcamp_Topics_Image.png)
+
+*Note: The infographic above is AI-generated to visually summarize the bootcamp weeks.*
+
+
+
+## Weekly Progress (README Documents)
+
 Please click the links below to explore each week’s README.
 
 \- `Week 1` – [Data Governance and Excel](Week_1_Data_Governance_and_Excel/README.md)
