@@ -122,7 +122,9 @@ The image below demonstrates an **interactive Excel dashboard** created during W
 
 
 
-[⬅ Back to Main Summary](../README.md)[Next Week ➡](Week_2_Data_Visualisation_and_Exploratory_Analysis/README.md)
+## Navigation
+
+[⬅ Back to Main Summary](../README.md) [Next Week ➡](Week_2_Data_Visualisation_and_Exploratory_Analysis/README.md)
 
 
 
