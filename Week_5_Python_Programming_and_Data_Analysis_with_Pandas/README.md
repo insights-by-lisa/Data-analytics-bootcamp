@@ -159,8 +159,7 @@ The week concluded with a real-world data analysis task using the **GDP (nominal
 To explore global economic trends, I created histograms of GDP (nominal) per capita estimates for each UN region. 
 
 
-
-![Python Code](Python_Code_Image.png)
+<img src="Python_Code_Image.png" alt="Python Code" width="600">
 
 ![Python Output](Python_Output_Image.png)
 
