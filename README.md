@@ -2,7 +2,7 @@
 
 
 
-\# Data Analytics Bootcamp Portfolio
+# Data Analytics Bootcamp Portfolio
 
 
 
@@ -10,7 +10,7 @@ Welcome to my Data Analytics Bootcamp portfolio! This repository is organised by
 
 
 
-\## About Me
+## About Me
 
 
 
@@ -18,7 +18,7 @@ I enjoy transforming raw data into insightful, visually engaging stories that ar
 
 
 
-\## My Learning Highlights
+## My Learning Highlights
 
 
 
@@ -26,19 +26,19 @@ Throughout this bootcamp, I have developed skills in:
 
 
 
-\- \*\*Data Analysis \& Manipulation\*\*: Confidently using Excel, Python, and Pandas to clean, sort, filter, and aggregate datasets.  
+\- **Data Analysis \& Manipulation**: Confidently using Excel, Python, and Pandas to clean, sort, filter, and aggregate datasets.  
 
-\- \*\*Data Visualisation\*\*: Creating meaningful visualisations in Tableau and Power BI to communicate insights effectively, including dashboards, heatmaps, bar charts, and interactive reports.  
+\- **Data Visualisation**: Creating meaningful visualisations in Tableau and Power BI to communicate insights effectively, including dashboards, heatmaps, bar charts, and interactive reports.  
 
-\- \*\*SQL \& Database Design\*\*: Understanding relational and non-relational databases, performing complex queries, and ensuring data integrity and quality.  
+\- **SQL \& Database Design**: Understanding relational and non-relational databases, performing complex queries, and ensuring data integrity and quality.  
 
-\- \*\*Cloud Computing \& Azure\*\*: Gaining practical experience with cloud service models (IaaS, PaaS, SaaS), deployment models, and Azure analytics labs.  
+\- **Cloud Computing \& Azure**: Gaining practical experience with cloud service models (IaaS, PaaS, SaaS), deployment models, and Azure analytics labs.  
 
-\- \*\*Data Law \& Ethics\*\*: Applying GDPR, DPA 2018, and other relevant legislation to practical scenarios, demonstrating awareness of compliance and privacy considerations.
+\- **Data Law \& Ethics**: Applying GDPR, DPA 2018, and other relevant legislation to practical scenarios, demonstrating awareness of compliance and privacy considerations.
 
 
 
-\## Tutor Feedback Highlights
+## Tutor Feedback Highlights
 
 
 
@@ -58,7 +58,7 @@ Some key strengths noted by my tutor throughout the course include:
 
 
 
-\## Portfolio Structure
+## Portfolio Structure
 
 
 
