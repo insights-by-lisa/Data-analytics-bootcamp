@@ -58,19 +58,29 @@ Some key strengths noted by my tutor throughout the course include:
 
 
 
-## Portfolio Structure
+# Data Analytics Bootcamp - Weekly Overview
+
+This infographic provides a high-level overview of the Data Analytics Bootcamp. Each week is captured in a dedicated README document, covering topics from **Data Governance and Excel** to **Python programming and data analysis with Pandas**.
+
+![Bootcamp Overview](Bootcamp_Topics_Image.png)
+
+*Note: The infographic above is AI-generated to visually summarize the bootcamp weeks.*
 
 
 
-\- `Week 1` – Data Governance and Excel 
+## Weekly Progress (README Documents)
 
-\- `Week 2` – Data Visualisation \& Exploratory Analysis
+Please click the links below to explore each week’s README.
 
-\- `Week 3` – SQL and Database Design 
+\- `Week 1` – [Data Governance and Excel](Week_1_Data_Governance_and_Excel/README.md)
 
-\- `Week 4` – Cloud Computing and Microsoft Azure  
+\- `Week 2` – [Data Visualisation \& Exploratory Analysis](Week_2_Data_Visualisation_and_Exploratory_Analysis/README.md)
 
-\- `Week 5` – Python Programming and Data Analysis with Pandas
+\- `Week 3` – [SQL and Database Design](Week_3_SQL_and_Database_Design/README.md) 
+
+\- `Week 5` – [Cloud Computing and Microsoft Azure](Week_5_Cloud_Computing_and_Microsoft_Azure/README.md)  
+
+\- `Week 6` – [Python Programming and Data Analysis with Pandas](Week_6_Python_Programming_and_Data_Analysis_with_Pandas)
 
 
 

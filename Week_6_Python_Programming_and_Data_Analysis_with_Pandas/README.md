@@ -185,3 +185,10 @@ To explore global economic trends, I created histograms of GDP (nominal) per cap
 
 
 
+---
+
+
+
+## Navigation
+
+[⬅ Back to Main Summary](../README.md)
