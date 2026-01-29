@@ -108,7 +108,7 @@ Hands-on labs and exam preparation strengthened Azure skills:
 
 
 
-A retail pet shop moving from spreadsheets to a centralized Azure data platform.
+A retail pet shop moving from spreadsheets to a centralised Azure data platform.
 
 
 
