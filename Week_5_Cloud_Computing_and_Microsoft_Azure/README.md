@@ -69,7 +69,7 @@ Explored the UK legal landscape for data and IT:
 
 
 
-\- **Computer Misuse Act 1990 \& Police and Justice Act 2006:** Covers unauthorized access, intent to commit further offenses, and unauthorized modification. The 2006 update addresses modern threats like DoS attacks and malware distribution.  
+\- **Computer Misuse Act 1990 \& Police and Justice Act 2006:** Covers unauthorised access, intent to commit further offenses, and unauthorized modification. The 2006 update addresses modern threats like DoS attacks and malware distribution.  
 
 \- **Intellectual Property \& Privacy:** Copyright infringement, plagiarism, and risks of using pirated software.  
 
